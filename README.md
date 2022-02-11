@@ -1,16 +1,5 @@
-# bmi_calculator_app
+# BMI Calculator
 
-A new Flutter application.
+A Responsive body mass index calculator application, that takes in user's sex, height, weight, and age. This particular project shows the flexiblity of stateful widgets in flutter. This flutter application was developed to run on Android and IOS. The project was instructed Dr. Angela Yu in the Complete 2021 Flutter Development Bootcamp , on Udemy.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![chrome_OnSHq0YzLR](https://user-images.githubusercontent.com/40523361/153538121-db82d3e6-59a3-43bf-9b46-60d292449a07.gif)
